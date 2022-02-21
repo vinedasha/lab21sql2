@@ -1,0 +1,1 @@
+CREATE TABLE "public"."t2" ("a" integer DEFAULT NULL, "b" integer DEFAULT NULL);
